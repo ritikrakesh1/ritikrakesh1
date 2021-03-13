@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ritikrakesh1
-- 👀 I’m interested in Artificial Intelligence.
-- 🌱 I’m currently learning Data Science
+- 👀 I’m excited about AI/ML.
+- 🌱 I’m currently learning Data Science.
 - 📫 How to reach me realritikrakesh@gmail.com
 
 <!---
