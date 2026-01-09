@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ritikrakesh1
-- 👀 I’m excited about AI/ML.
-- 🌱 I’m currently learning Data Science.
+- 👀 I’m excited about AI/ML in Finance.
+- 🌱 I’m currently learning Quantitative Finance.
 - 📫 How to reach me realritikrakesh@gmail.com
 
 <!---
