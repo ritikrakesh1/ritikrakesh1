@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ritikrakesh1
-- 👀 I’m excited about AI/ML in Finance.
-- 🌱 I’m currently learning Quantitative Finance.
-- 📫 How to reach me realritikrakesh@gmail.com
+- 👀 I’m excited about Quantitative Finance and Investments.
+- 📫 How to reach me realritikrakesh@gmail.com or ritik.r@ahduni.edu.in or ritikrakesh111@gmail.com
 
 <!---
 ritikrakesh1/ritikrakesh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
