@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ritikrakesh1
-- 👀 I’m excited about Quantitative Finance and Investments.
+- 👀 I’m excited about Quantitative Finance and Systematic Investing.
 - 📫 How to reach me realritikrakesh@gmail.com or ritik.r@ahduni.edu.in or ritikrakesh111@gmail.com
 
 <!---
